@@ -1,0 +1,15 @@
+{
+  "name": "ft-nginx",
+  "version": "0.1.0",
+  "author": "ft",
+  "summary": "This Module is going to manage Nginx",
+  "license": "Apache-2.0",
+  "source": "git@github.com:firastahir/puppet-nginx.git",
+  "project_page": "git@github.com:firastahir/puppet-nginx.git",
+  "issues_url": "git@github.com:firastahir/puppet-nginx.git/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
